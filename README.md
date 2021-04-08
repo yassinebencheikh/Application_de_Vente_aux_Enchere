@@ -1,5 +1,5 @@
 # Application_de_Vente_aux_Enchere
-Application de Vente aux Enchere par les systèmes multi agents (JADE)
+Application de Vente aux Enchere par les systèmes multi agents (Framework JADE)
 # Aperçu
 En ces temps modernes, ou l'informatique occupe de plus en plus de place dans la vie quotidienne, ce vaste domaine est devenu l'outil indispensable de l'homme. En effet, le stockage et le traitement des données sont automatisés dans plusieurs domaines d'applications tels que les administrations, les entreprises mais aussi dans le domaine 
 des enchères. 
